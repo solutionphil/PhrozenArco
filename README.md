@@ -16,8 +16,6 @@ Instructions📑:
 1. Upload it into the Klipper config folder (same 📁 where printer.cfg is located) 
 2. In printer.cfg add on top the line: [include AddOn.cfg] 
 
-<br/>
-<br/>
 ## config/Orca_Gcode.md
 Functions 💥:
 - ☑️ Added adaptive bed meshing to Orca
