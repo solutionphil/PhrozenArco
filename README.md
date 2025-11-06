@@ -9,7 +9,7 @@ Functions 💥:
 - ☑️ Added Screws_Tilt_Adjust functionality to get instructions for leveling the bed (triggered in console using screws_tilt_calculate) 🪛
 - ☑️ Added Z_Tilt_Adjust for levelling the left and right Z-Axis (triggered by entering Z_Tilt_Adjust in console or click the [small icon](https://github.com/user-attachments/assets/8f263903-70f9-4fa7-9d32-b4b9a3c52ba4) aside of homing in mainsail) 📏
 - ☑️ Added for Screws_Tilt_Adjust and Z-Tilt_Adjust a homing first before performing the action to avoid scratching the bed under unhomed condition 🏠
-- ☑️ Added Adaptive Mesh with individual number of meshing points depending on object size 📐
+- ☑️ Added Adaptive Mesh with individual number of meshing points depending on object size (needs Orca Adjustments-[Machine Start G-Code](https://github.com/user-attachments/assets/56eb1a2b-4e3b-472f-a754-c0f7bf5e4327) and [Printer Settings](https://github.com/user-attachments/assets/5b15faf3-d276-43f8-820f-73795828afc5) )📐
  - ... new feature will be added soon here
 
 Instructions📑:
