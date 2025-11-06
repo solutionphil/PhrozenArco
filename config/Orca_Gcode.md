@@ -1,3 +1,5 @@
+Machine Start G-Code:
+
 M107
 G90
 M140 S[bed_temperature_initial_layer_single]
@@ -22,3 +24,8 @@ T0
 {endif}
 SET_PRINT_STATS_INFO TOTAL_LAYER=[total_layer_count]
 
+
+Layer Change G-Code:
+
+;AFTER_LAYER_CHANGE [layer_num] @ [layer_z]mm
+SET_PRINT_STATS_INFO CURRENT_LAYER={layer_num + 1}
