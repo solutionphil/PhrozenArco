@@ -1,7 +1,7 @@
 # PhrozenArco
 AddOns, hints, tips and tricks for the Phrozen Arco FDM printer
 
-## [config/AddOn.cfg]
+## config/AddOn.cfg
 Functions 💥:
 - ☑️ Added [respond] & [exclude_object] for console outputs and ORCA part selection :c
 - ☑️ Added an startup beep using the integrated beeper 🎵
@@ -15,3 +15,4 @@ Functions 💥:
 Instructions📑:
 1. Upload it into the Klipper config folder (same 📁 where printer.cfg is located) 
 2. In printer.cfg add on top the line: [include AddOn.cfg] 
+
