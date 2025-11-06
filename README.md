@@ -18,7 +18,8 @@ Instructions📑:
 
 
 
-> [!CAUTION] ⚠️ Disclaimer ⚠️
+> [!CAUTION]
+> ##Disclaimer ⚠️
 >Working with electricity and electronic components can be dangerous. Always ensure you take the necessary safety precautions when handling electrical devices.
 >
 >This software and associated documentation are provided "as is" without warranty of any kind, either express or implied, including but not limited to the implied warranties of merchantability and fitness for a particular purpose. In no event shall the authors or copyright holders be liable for any claim, damages, or other liability, whether in an action of >contract, tort, or otherwise, arising from, out of, or in connection with the software or the use or other dealings in the software.
