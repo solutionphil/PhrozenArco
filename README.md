@@ -1,7 +1,7 @@
 # PhrozenArco
 AddOns, hints, tips and tricks for the Phrozen Arco FDM printer
 
-## config/AddOn.cfg
+## [config/AddOn.cfg]
 Functions 💥:
 - ☑️ Added [respond] & [exclude_object] for console outputs and ORCA part selection :c
 - ☑️ Added an startup beep using the integrated beeper 🎵
