@@ -15,7 +15,8 @@ Functions 💥:
 
 Instructions📑:
 1. Upload it into the Klipper config folder (same 📁 where printer.cfg is located) 
-2. In printer.cfg add on top the line: [include AddOn.cfg] 
+2. In printer.cfg add on top the line: [include AddOn.cfg]
+3. In printer.cfg put # in front of the old mainboard fan control section ([CLICK HERE TO SEE THE EDITED VERSION](https://github.com/user-attachments/assets/8166b5c8-1e5e-40b5-8dd1-d662d7d2ea1b))
 
 ## config/Orca_Gcode.md
 Functions 💥:
