@@ -27,9 +27,10 @@ Instructions📑:
 1. Copy the code snippets for Start G-code from the file in Orca under Printer Settings--Machine G-code--[Machine Start G-Code](https://github.com/user-attachments/assets/56eb1a2b-4e3b-472f-a754-c0f7bf5e4327)
 2. Change Values for adaptive bed mesh under Printer Settings--[Basic Information](https://github.com/user-attachments/assets/5b15faf3-d276-43f8-820f-73795828afc5)
 3. Copy the code snippets for Layer change G-code from the file in Orca under Printer Settings--Machine G-code--[Layer Change Gcode](https://github.com/user-attachments/assets/1b46c960-d7ca-45a8-9369-41161494569d)
-
-## Mainsail Sort Macros
-- Under the following link is a nice explanation for sorting Macros in the Dashboard [LINK](https://docs.mainsail.xyz/overview/settings/macros)
+<br/>
+## Mainsail Sorting Macros
+- Under the following link is a nice explanation for managing the G-Code Macros in the Dashboard [LINK](https://docs.mainsail.xyz/overview/settings/macros)
+- This helps to tidy up the dashboard view 🧹
   
 <br/>
 
