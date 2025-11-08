@@ -28,6 +28,9 @@ Instructions📑:
 2. Change Values for adaptive bed mesh under Printer Settings--[Basic Information](https://github.com/user-attachments/assets/5b15faf3-d276-43f8-820f-73795828afc5)
 3. Copy the code snippets for Layer change G-code from the file in Orca under Printer Settings--Machine G-code--[Layer Change Gcode](https://github.com/user-attachments/assets/1b46c960-d7ca-45a8-9369-41161494569d)
 
+## Mainsail Sort Macros
+- Under the following link is a nice explanation for sorting Macros in the Dashboard [LINK](https://docs.mainsail.xyz/overview/settings/macros)
+  
 <br/>
 
 > [!CAUTION]
