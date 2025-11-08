@@ -30,7 +30,7 @@ Instructions📑:
 
 
 ## Mainsail Sorting Macros
-- Under the following link is a nice explanation for managing the G-Code Macros in the Dashboard [LINK](https://docs.mainsail.xyz/overview/settings/macros)
+- Under the following link is a nice explanation for managing the G-code macros in the dashboard [LINK](https://docs.mainsail.xyz/overview/settings/macros)
 - This helps to tidy up the dashboard view 🧹
   
 <br/>
