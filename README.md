@@ -44,6 +44,9 @@ Instructions📑:
 
 
 ## Mainsail Sorting Macros
+Functions 💥:
+- ☑️ Optimizing macro section in the Mainsail Dashboard
+  
 - Under the following link is a nice explanation for managing the G-code macros in the dashboard [LINK](https://docs.mainsail.xyz/overview/settings/macros)
 - This helps to tidy up the dashboard view 🧹
 
