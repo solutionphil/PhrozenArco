@@ -43,14 +43,14 @@ Instructions📑:
 3. Click save & restart ... done 🏁
 
 
-## Mainsail Sorting Macros
+## Mainsail: sorting macros
 Functions 💥:
 - ☑️ Optimizing macro section in the Mainsail Dashboard
   
 - Under the following link is a nice explanation for managing the G-code macros in the dashboard [LINK](https://docs.mainsail.xyz/overview/settings/macros)
 - This helps to tidy up the dashboard view 🧹
 
- ## Z-Rod Mod 
+ ## Hardware Z-Rod Mod 
 Functions 💥:
 - ☑️ Smoother Gantry movement on Z-axis
 
