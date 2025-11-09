@@ -50,7 +50,7 @@ Functions 💥:
 - ☑️ Optimizing macro section in the Mainsail Dashboard
   
 Description📑:  
-Under the following link is a nice explanation for managing the G-code macros in the dashboard [LINK](https://docs.mainsail.xyz/overview/settings/macros)
+Under the following link is a nice explanation for managing the G-code macros in the dashboard [LINK](https://docs.mainsail.xyz/overview/settings/macros)<br>
 This helps to tidy up the dashboard view 🧹
 
 
@@ -61,7 +61,7 @@ Functions 💥:
 Description📑:
 The Arco has by default on top and bottom ball bearings which guide the z-rods. This design can cause z-banding. The effect gets stronger the more the z-rods are bend. If you are actually good with the print quality---keep the machine stock. I would just recommend you to do this modification as a more experienced user and if you experience z-banding issues.
 Other than that I can just say a big 🫶 thanks to Joost v.d.L. for redesigning the top caps and managing how to fight the z-banding.
-Here is the link with the files and some more informations [CLICK](https://www.printables.com/model/1428999-phrozen-arco-z-lead-screw-flexing-top-cap-set)
+Here is the link with the files and some more informations [CLICK](https://www.printables.com/model/1428999-phrozen-arco-z-lead-screw-flexing-top-cap-set)🔥
 
 
 
