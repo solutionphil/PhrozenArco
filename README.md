@@ -18,6 +18,7 @@ Instructions📑:
 2. In printer.cfg add on top the line: [include AddOn.cfg]
 3. In printer.cfg put # in front of the old mainboard fan control section ([CLICK HERE TO SEE THE EDITED VERSION](https://github.com/user-attachments/assets/8166b5c8-1e5e-40b5-8dd1-d662d7d2ea1b))
 
+
 ## config/Orca_Gcode.md
 Functions 💥:
 - ☑️ Added adaptive bed meshing to Orca
@@ -27,6 +28,7 @@ Instructions📑:
 1. Copy the code snippets for Start G-code from the file in Orca under Printer Settings--Machine G-code--[Machine Start G-Code](https://github.com/user-attachments/assets/56eb1a2b-4e3b-472f-a754-c0f7bf5e4327)
 2. Change Values for adaptive bed mesh under Printer Settings--[Basic Information](https://github.com/user-attachments/assets/5b15faf3-d276-43f8-820f-73795828afc5)
 3. Copy the code snippets for Layer change G-code from the file in Orca under Printer Settings--Machine G-code--[Layer Change Gcode](https://github.com/user-attachments/assets/1b46c960-d7ca-45a8-9369-41161494569d)
+
 
 ## config/printer.cfg
 Functions 💥:
@@ -47,8 +49,10 @@ Instructions📑:
 Functions 💥:
 - ☑️ Optimizing macro section in the Mainsail Dashboard
   
-- Under the following link is a nice explanation for managing the G-code macros in the dashboard [LINK](https://docs.mainsail.xyz/overview/settings/macros)
-- This helps to tidy up the dashboard view 🧹
+Description📑:  
+Under the following link is a nice explanation for managing the G-code macros in the dashboard [LINK](https://docs.mainsail.xyz/overview/settings/macros)
+This helps to tidy up the dashboard view 🧹
+
 
  ## Hardware Z-Rod Mod 
 Functions 💥:
