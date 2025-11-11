@@ -11,6 +11,7 @@ Functions 💥:
 - ☑️ Added for Screws_Tilt_Adjust and Z-Tilt_Adjust a homing first before performing the action to avoid scratching the bed under unhomed condition 🏠
 - ☑️ Added Adaptive Mesh with individual number of meshing points depending on object size (⚠️ needs Orca Adjustments)📐
 - ☑️ Added Light Toggle switch for Mainsail (🫶 thanks to Jay S. and Edwin T.) 💡
+- ☑️ 🔥Added M600 support. After executing M600 it automatically retracts out the filament. Take out the old filament and put the new filament in. Press [resume](https://github.com/user-attachments/assets/94c5e294-aff2-47f3-8124-f709c646ad53) in Mainsail Dashboard and wait until it loads the filament (need to push it little  bit until you feel its taken it). Press again [resume](https://github.com/user-attachments/assets/94c5e294-aff2-47f3-8124-f709c646ad53) and it should proceed printing with the new filament :). ⚠️There is only interaction over the Mainsail Dashboard possible. The LCD does not support this function (at least Im not aware of how it would be triggered).
  - ... new feature will be added soon here
 
 Instructions📑:
